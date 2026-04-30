@@ -38,10 +38,10 @@ The app expects an Excel file (`.xlsx`) with the following columns:
 
 ## 📊 Changepoint Detection
 
-Changepoints are estimated using the R package `changepoint`.  
-It implements a likelihood-based method for detecting changes in the mean, assuming a constant mean within segments.
+- Changepoints are estimated using the R package `changepoint` 
+- It implements a likelihood-based method for detecting changes in the mean, assuming a constant mean within segments.
 
-A key component of the approach is the penalty term, which controls the sensitivity of the detection and can be adjusted manually.
+- A key component of the approach is the penalty term, which controls the sensitivity of the detection and can be adjusted manually.
 
 The **penalty value** controls detection sensitivity:
 
@@ -87,5 +87,3 @@ Developed by
 If you have any questions, suggestions, or feedback, please send an email:
 
 📧 dammann@statistik.tu-dortmund.de
-
-We appreciate your feedback!
