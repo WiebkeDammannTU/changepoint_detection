@@ -1,6 +1,6 @@
 # Changepoint Detection (R Shiny App)
 
-An interactive **R Shiny application** for detecting and visualizing changepoints in time series data.
+An interactive **R Shiny Application** for detecting and visualizing changepoints in time series data.
 
 🔗 https://wiebkedammanntu.github.io/changepoint_detection/
 
