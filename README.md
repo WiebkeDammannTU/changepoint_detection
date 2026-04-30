@@ -13,7 +13,7 @@ This application enables users to:
 - 📤 Upload time series datasets *(or use a built-in example dataset)*  
 - 📊 Visualize measurements over time  
 - 🔍 **Detect changepoints** using the R package `changepoint`  
-  (DOI: 10.32614/CRAN.package.changepoint)  
+  ([DOI: 10.32614/CRAN.package.changepoint](https://doi.org/10.32614/CRAN.package.changepoint))  
 - ⚙️ Adjust detection sensitivity via a penalty parameter  
 - 🧩 Explore changepoints across multiple variables  
 - 📋 View detected changepoints and corresponding **segment means** in a table  
